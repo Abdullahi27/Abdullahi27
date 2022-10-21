@@ -1,7 +1,7 @@
 
 ![](banner.jpg)
 ### Hi there 👋, My name is Abdullahi 
-I am a Full Stack Software Engineer based in Boston, MA with extensive experience in both Frontend development and Backend development. I am also well seasoned in HTML, CSS, Javascript, Node.Js, and React. I love to bridge the gap between technical and creative minded individuals with the continued goal to help others in all aspects of their lives. With my ample knowledge in various subjects I am able to adapt to rapidly changing situations, and find creative solutions to immediate problems.
+I am a Full Stack Software Engineer based in Boston, MA with extensive experience in both Frontend development and Backend development. I am well seasoned in HTML, CSS, Javascript, Node.Js, and React. I love to bridge the gap between technical and creative minded individuals with the continued goal to help others in all aspects of their lives. With my ample knowledge in various subjects I am able to adapt to rapidly changing situations, and find creative solutions to immediate problems.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
